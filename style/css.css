@@ -1,0 +1,42 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    top: 0px;
+left: 0px;
+width: 1920px;
+height: 120px;
+background: #000324 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.li{
+    top: 83px;
+left: 573px;
+width: 70px;
+height: 26px;
+text-align: left;
+font: Regular 20px/26px Dosis;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+}
+.white{
+    color: #FFFFFF
+}
+.dblue{
+   color: #000324;
+}
+.lblue{
+    color: #E5FEFF;
+}
+.black{
+    color:#1A1B26;
+}
+.deepblue{
+    color: #004CC7
+}
+.otherblue{
+    color: #1F51A8
+}
